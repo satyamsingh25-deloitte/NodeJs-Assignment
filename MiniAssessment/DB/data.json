@@ -1,0 +1,56 @@
+{
+    "matches": [
+      { "id": 1, "team1": "RCB", "team2": "CSK", "date": "2023-07-13", "venue": "Stadium 1" },
+      { "id": 2, "team1": "GT", "team2": "LSG", "date": "2023-07-13", "venue": "Stadium 2" },
+      { "id": 3, "team1": "KKR", "team2": "RR", "date": "2023-07-15", "venue": "Stadium 3" }
+    ],
+    "teams": [
+      { "id": 1, "name": "RCB" },
+      { "id": 2, "name": "CSK" },
+      { "id": 3, "name": "GT" },
+      { "id": 4, "name": "LSG" },
+      { "id": 5, "name": "KKR" },
+      { "id": 6, "name": "RR" }
+    ],
+    "players": [
+      { "id": 1, "teamId": 1, "name": "KOHLI", "age": 25, "score": 100, "wickets": 5 },
+      { "id": 2, "teamId": 1, "name": "DHONI", "age": 26, "score": 1500, "wickets": 500 },
+      { "id": 3, "teamId": 1, "name": "SATYAM", "age": 22, "score": 2000, "wickets": 3 },
+      { "id": 4, "teamId": 1, "name": "AYUSH", "age": 26, "score": 200, "wickets": 3 },
+      { "id": 5, "teamId": 1, "name": "RADHE", "age": 66, "score": 10, "wickets": 3 },
+      { "id": 6, "teamId": 1, "name": "SALMAN", "age": 36, "score": 0, "wickets": 3 },
+      { "id": 7, "teamId": 2, "name": "SRK", "age": 30, "score": 100, "wickets": 4 },
+      { "id": 8, "teamId": 2, "name": "JADEJA", "age": 24, "score": 130, "wickets": 67 },
+      { "id": 8, "teamId": 2, "name": "RONNEY", "age": 24, "score": 103, "wickets": 10 },
+      { "id": 8, "teamId": 2, "name": "RONALDO", "age": 14, "score": 103, "wickets": 56 },
+      { "id": 8, "teamId": 2, "name": "MESSI", "age": 24, "score": 45, "wickets": 245 },
+      { "id": 8, "teamId": 2, "name": "DOREMON", "age": 24, "score": 135, "wickets": 16 },
+      { "id": 8, "teamId": 3, "name": "NOBITA", "age": 24, "score": 153, "wickets": 15 },
+      { "id": 8, "teamId": 3, "name": "GIYAN", "age": 24, "score": 513, "wickets": 78 },
+      { "id": 8, "teamId": 3, "name": "FAB", "age": 24, "score": 135, "wickets": 79 },
+      { "id": 8, "teamId": 3, "name": "GOOGLE", "age": 24, "score": 513, "wickets": 2 },
+      { "id": 8, "teamId": 3, "name": "YAHOO", "age": 24, "score": 139, "wickets": 2 },
+      { "id": 8, "teamId": 3, "name": "ARRAY", "age": 24, "score": 193, "wickets": 2 },
+      { "id": 8, "teamId": 3, "name": "RONALDINO", "age": 24, "score": 913, "wickets": 2 },
+      { "id": 8, "teamId": 4, "name": "BRADMAN", "age": 24, "score": 1939, "wickets": 2 },
+      { "id": 8, "teamId": 4, "name": "JOE", "age": 24, "score": 193, "wickets": 20},
+      { "id": 8, "teamId": 4, "name": "SAM", "age": 24, "score": 139, "wickets": 200 },
+      { "id": 8, "teamId": 4, "name": "MITHCELL", "age": 24, "score": 913, "wickets": 0 },
+      { "id": 8, "teamId": 4, "name": "LARA", "age": 24, "score": 193, "wickets": 120 },
+      { "id": 8, "teamId": 4, "name": "WARNER", "age": 24, "score": 193, "wickets": 20 },
+      { "id": 8, "teamId": 4, "name": "SACHIN", "age": 24, "score": 913, "wickets": 52 },
+      { "id": 8, "teamId": 5, "name": "MAXWELL", "age": 24, "score": 813, "wickets": 258 },
+      { "id": 8, "teamId": 5, "name": "CURRAN", "age": 24, "score": 0, "wickets": 28 },
+      { "id": 8, "teamId": 5, "name": "TIM", "age": 24, "score": 183, "wickets": 28 },
+      { "id": 8, "teamId": 5, "name": "SURYA", "age": 24, "score": 13, "wickets":82 },      
+      { "id": 8, "teamId": 5, "name": "ALEC", "age": 24, "score": 1883, "wickets": 28 },
+      { "id": 8, "teamId": 5, "name": "RAHUL", "age": 24, "score": 13, "wickets": 266 },
+      { "id": 8, "teamId": 6, "name": "PUJARA", "age": 24, "score": 813, "wickets": 2 },
+      { "id": 8, "teamId": 6, "name": "TAYLOR", "age": 24, "score": 1438, "wickets": 62 },
+      { "id": 8, "teamId": 6, "name": "CHRISS", "age": 24, "score": 8813, "wickets": 2 },
+      { "id": 8, "teamId": 6, "name": "GAUTAM", "age": 24, "score": 8813, "wickets": 0 },
+      { "id": 8, "teamId": 6, "name": "MOHIT", "age": 24, "score": 183, "wickets": 0 }
+
+    ]
+  }
+  
