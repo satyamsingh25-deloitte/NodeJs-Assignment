@@ -16,6 +16,6 @@ function logger(request, response, next){
   next();
 }
 
-app.listen(8000, () => {
-  console.log('Server is running on port 3000');
-});
+module.exports = app;
+
+
