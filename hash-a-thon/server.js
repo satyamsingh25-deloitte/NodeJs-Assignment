@@ -1,11 +1,13 @@
-const express = require('express');
+const express = require('express')
+const sequelize = require("./database/db.js")
 const app = express();
 const PORT = 8000;
 
-const router = require("./index.js")
+app.get('/', (request, response) => {
+    response.send("hello");
+})
 
-app.use(router);
-    
 app.listen(PORT, () => {
     console.log(`running on server ${PORT}`)
 })
+
